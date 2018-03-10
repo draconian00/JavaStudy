@@ -1,6 +1,6 @@
 package com.javalec.overrideex;
 
-public class Mainclass {
+public class MainClass {
 
     public static void main(String[] args) {
 
